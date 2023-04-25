@@ -94,7 +94,7 @@ Virtual Address Trace
   VA 14: 0x0000000e (decimal:   14) --> VALID in SEG1: 0x00000002 (decimal:    2)
   VA 15: 0x0000000f (decimal:   15) --> VALID in SEG1: 0x00000003 (decimal:    3)
 ```  
-b0: 0~124, b1: 4~128  
+b0: 0 ~ 124, b1: 4 ~ 128  
 4.  
 ```sh
 jacky@MacBook-Pro-2 vm-segmentation % ./segmentation.py -a 1k -n 100 --l0 460 --l1 461 -c
