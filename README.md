@@ -7,4 +7,5 @@
 | 第7章 | [cpu-scheduling](./cpu-sched/HW) |  
 | 第8章 | [cpu-scheduling-mlfq](./cpu-sched-mlfq/HW) |  
 | 第9章 | [cpu-scheduling-lottery](./cpu-sched-lottery/HW) |  
-| 第15章 | [vm-mechanism](./vm-mechanism/HW) |
+| 第15章 | [vm-mechanism](./vm-mechanism/HW) |  
+| 第16章 | [vm-segmentation](./vm-segmentation/HW) |
