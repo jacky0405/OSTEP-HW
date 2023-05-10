@@ -9,4 +9,5 @@
 | 第9章 | [cpu-scheduling-lottery](./cpu-sched-lottery/HW) |  
 | 第15章 | [vm-mechanism](./vm-mechanism/HW) |  
 | 第16章 | [vm-segmentation](./vm-segmentation/HW) |  
-| 第17章 | [vm-freespace](./vm-freespace/HW) |
+| 第17章 | [vm-freespace](./vm-freespace/HW) |  
+| 第18章 | [vm-paging](./vm-paging/HW) |
